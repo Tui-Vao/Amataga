@@ -1,0 +1,13 @@
+option.DISTORT_FACTOR=Shadow Distortion
+option.SHADOW_BIAS=Shadow Bias
+option.shadowMapResolution=Shadow Resolution
+option.DAY_TERRAIN_BRIGHTNESS=Daytime Terrain Brightness
+option.NIGHT_TERRAIN_BRIGHTNESS=Nighttime Terrain Brightness
+option.DAY_TERRAIN_SATURATION=Daytime Terrain Saturation
+option.NIGHT_TERRAIN_SATURATION=Nighttime Terrain Saturation
+option.DAY_FOG_DENSITY=Daytime Fog Density
+option.NIGHT_FOG_DENSITY=Nighttime Fog Density
+option.DAY_FOG_BRIGHTNESS=Daytime Fog Brightness
+option.NIGHT_FOG_BRIGHTNESS=Nighttime Fog Brightness
+option.DAY_VIGNETTE=Daytime Vignette Brightness
+option.NIGHT_VIGNETTE=Nighttime Vignette Brightness
